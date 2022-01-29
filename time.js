@@ -3,4 +3,4 @@ function operation(){
 }
 operation(10,20);
 
-Date();
+console.log("this is mahadi");
